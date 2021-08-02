@@ -1,0 +1,168 @@
+element.style {
+}
+.page-node-type-dataset .samhda-right-rail-layout .samhda-row .samhda-right-content {
+    padding: 0.5rem 1.5rem;
+}
+@media (min-width: 64em)
+.samhda-right-rail-layout .samhda-row .samhda-right-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 33.33333%;
+}
+.samhda-right-rail-layout .samhda-row .samhda-right-content {
+    width: 100%;
+    padding: 1.5rem;
+    background-color: #F9FCFE;
+}
+.samhda-right-rail-layout .samhda-row.content-row > * {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+html, body, .usa-banner .usa-accordion, .usa-header, .usa-nav, .usa-prose, .usa-footer, .usa-form, .usa-fieldset, .usa-hint, .usa-select, body.bibliography-search .block-facet--range-dropdowns .facets-widget-range_dropdowns select.item-list__range_dropdowns, body.bibliography-search .block-facet--range-dropdowns .facets-widget-range_dropdowns select.item-list__range_dropdowns, .usa-range, .usa-input, .usa-textarea, .usa-combo-box__input, .usa-combo-box__list, .usa-nav .usa-accordion, .usa-footer--big .usa-footer__primary-link, .usa-button, .block-home-page-wizard-block .homePageWizard-btn, .block-home-page-wizard-block .hp-showResults-btn, .block-home-page-wizard-block .hp-wiz-next-btn, .block-home-page-wizard-block .hp-wiz-back-btn, .block-home-page-wizard-block .hp-wiz-end-btn, .block-home-page-wizard-block .wiz-choice-btn, .form-item-was-this-helpful--no label, .didYouFindThisHelpful .helpWidget-pageOne .introQuestionWrapper label, .page-node-type-publication .bibliography-link .views-field-field-pub-doi-url a, h1, h2, h3, h4,p {
+    font-family: Tahoma,Verdana,Segoe,sans-serif !important;
+    color: #1e384b;
+}
+
+
+#navlist li
+{
+display: inline-block;
+list-style-type: none;
+padding-right: 20px;
+padding: 5px;
+overflow: hidden;
+list-style-type: none;
+position: relative; 
+top: -250px; 
+right: -1100px;
+#width: 800px;
+text-align: right;
+}
+
+#navcontainerb
+{
+margin: 0;
+}
+#navcontainerb ul {
+    list-style-type: none;
+    padding: 20px;
+    margin: 0;
+    background-color: #1e384b;
+    text-align: center;
+}
+
+#navcontainerb ul li { 
+    display: inline; 
+    font-size: 1.5em;
+    font-family: Arial;
+}
+
+#navcontainerb ul li a
+{
+text-decoration: none;
+color: lightgrey;
+padding: 10px 20px;
+
+
+}
+
+#navcontainerb ul li a:hover
+{
+color: #fff;
+background-color: #369;
+}
+
+
+
+body {
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+    color: #646464;
+}
+body {
+    background-color: white;
+    color: #1b1b1b;
+    overflow-x: hidden;
+}
+body {
+    background-color: white;
+    color: #1b1b1b;
+    overflow-x: hidden;
+}
+html {
+    line-height: 1.45;
+}
+html {
+    -webkit-font-feature-settings: "kern" 1;
+    font-feature-settings: "kern" 1;
+    -webkit-font-kerning: normal;
+    font-kerning: normal;
+    font-family: Tahoma,true;
+    font-size: 100%;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+.dropbtn {
+  font-size: 14px;
+  font-family: Tahoma,Verdana,Segoe,sans-serif;
+  border: none;
+  cursor: pointer;
+  border:1px solid black;
+  border-radius:3px;
+  padding: 2px 35px;
+  background-color: #d5e7f4;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  font-family: Tahoma,Verdana,Segoe,sans-serif;
+  font-size: 13px;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 3px 3px;
+  text-decoration: none;
+  display: block;
+  font-family: Tahoma,Verdana,Segoe,sans-serif;
+  font-size: 13px;
+}
+
+.dropdown-content a:hover {background-color: lightgrey}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  
+}
